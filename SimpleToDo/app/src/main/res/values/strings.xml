@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="add_item">Add Item</string>
+    <string name="name">Name</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="save">Save</string>
+    <string name="txetedit">TxetEdit</string>
+    <string name="txet_edit">txet edit</string>
+</resources>
